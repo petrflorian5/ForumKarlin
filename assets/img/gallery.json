@@ -1,0 +1,184 @@
+[
+ {
+  "base": "g01",
+  "cap": "Branded reception & front desk",
+  "orient": "landscape",
+  "w": 6000,
+  "h": 4000
+ },
+ {
+  "base": "g02",
+  "cap": "Lounge & breakout zone",
+  "orient": "landscape",
+  "w": 6000,
+  "h": 4000
+ },
+ {
+  "base": "g03",
+  "cap": "Open-plan workspace with central podium",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g04",
+  "cap": "Tiered podium seating",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g05",
+  "cap": "Lockers & circulation spine",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g06",
+  "cap": "Kitchenette",
+  "orient": "landscape",
+  "w": 6000,
+  "h": 4000
+ },
+ {
+  "base": "g07",
+  "cap": "Workstations by the windows",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g08",
+  "cap": "Container-style kitchen & dining",
+  "orient": "landscape",
+  "w": 6000,
+  "h": 4000
+ },
+ {
+  "base": "g09",
+  "cap": "Reception lounge",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g10",
+  "cap": "Glass-walled meeting room",
+  "orient": "landscape",
+  "w": 6000,
+  "h": 4000
+ },
+ {
+  "base": "g11",
+  "cap": "Meeting room with city views",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g12",
+  "cap": "Boardroom",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g13",
+  "cap": "Collaboration area",
+  "orient": "landscape",
+  "w": 6000,
+  "h": 4000
+ },
+ {
+  "base": "g14",
+  "cap": "Reception desk detail",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g15",
+  "cap": "Single office / focus room",
+  "orient": "portrait",
+  "w": 2097,
+  "h": 2796
+ },
+ {
+  "base": "g16",
+  "cap": "Quiet meeting booth",
+  "orient": "portrait",
+  "w": 2097,
+  "h": 2796
+ },
+ {
+  "base": "g17",
+  "cap": "Open office & breakout",
+  "orient": "landscape",
+  "w": 6000,
+  "h": 4000
+ },
+ {
+  "base": "g18",
+  "cap": "Soft seating & phone booths",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g19",
+  "cap": "Privacy screening & desks",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g20",
+  "cap": "Workstation cluster",
+  "orient": "portrait",
+  "w": 2097,
+  "h": 2796
+ },
+ {
+  "base": "g21",
+  "cap": "Workspace overview",
+  "orient": "portrait",
+  "w": 4000,
+  "h": 6000
+ },
+ {
+  "base": "g22",
+  "cap": "Signature colour & podium detail",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g23",
+  "cap": "Presentation / town-hall room",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g24",
+  "cap": "Reception window detail",
+  "orient": "landscape",
+  "w": 2796,
+  "h": 2097
+ },
+ {
+  "base": "g25",
+  "cap": "Workspace vista",
+  "orient": "portrait",
+  "w": 4000,
+  "h": 6000
+ },
+ {
+  "base": "g26",
+  "cap": "Planted corridor",
+  "orient": "portrait",
+  "w": 2097,
+  "h": 2796
+ }
+]
